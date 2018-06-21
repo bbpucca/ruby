@@ -11,10 +11,19 @@ for x in (nb..2017) do
 
 i = x-nb
 
-y = (age-i)*2
+y = (age-i)
 
 
-puts " il y a #{i} ans, tu avais la moitie de #{y} ans "
 
+if i == y
+        puts "il y a #{i} ans, tu avais la moitié de l'age que tu as aujourd'hui"
+
+else
+        puts "il y a #{i} ans, tu avais  #{y} ans "
 
 end
+
+end
+~                                                                               
+~                                                                               
+~                    
