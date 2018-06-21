@@ -1,12 +1,12 @@
-i= 2
+i= 0
 
 25.times do 
 
 
-
+i=i+2
 
 
 puts "jean.dupont.#{i}@email.fr"
-i=i+2
+
 
 end
