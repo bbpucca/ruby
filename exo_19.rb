@@ -1,6 +1,6 @@
-i= 2
+i= 0
 
-50.times do |i|
+50.times do
 
 
 i=i+2
